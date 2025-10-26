@@ -1,0 +1,113 @@
+# Ad Campaign Configuration for Search-as-Code
+# This file demonstrates how ad campaigns can be configured and managed
+
+ad_integration:
+  enabled: true
+  max_ad_ratio: 0.4  # Maximum 40% of results can be ads
+  min_organic_results: 3  # Always show at least 3 organic results
+  
+# Ad placement rules
+placement_rules:
+  top_placement:
+    enabled: true
+    max_ads: 1
+    min_bid_threshold: 2.0  # Minimum bid for top placement
+    
+  middle_placement:
+    enabled: true
+    max_ads: 2
+    frequency: 3  # Insert ad after every 3 organic results
+    
+  bottom_placement:
+    enabled: false
+    max_ads: 1
+
+# User segmentation for ad targeting
+user_segments:
+  new_user:
+    bid_multiplier: 1.2
+    max_ad_ratio: 0.3
+    preferred_campaigns: ["brand_awareness", "promotional"]
+    
+  standard_user:
+    bid_multiplier: 1.0
+    max_ad_ratio: 0.25
+    preferred_campaigns: ["promotional", "product_launch"]
+    
+  premium_user:
+    bid_multiplier: 1.5
+    max_ad_ratio: 0.35
+    preferred_campaigns: ["brand_awareness", "luxury", "premium"]
+
+# Domain-specific ad rules
+domain_rules:
+  clothing:
+    max_ad_ratio: 0.3
+    preferred_campaigns: ["promotional", "seasonal_sale"]
+    keyword_boost:
+      - "sale"
+      - "discount"
+      - "new"
+      - "trending"
+      
+  electronics:
+    max_ad_ratio: 0.25
+    preferred_campaigns: ["product_launch", "brand_awareness"]
+    keyword_boost:
+      - "new"
+      - "latest"
+      - "premium"
+      - "professional"
+      
+  furniture:
+    max_ad_ratio: 0.2
+    preferred_campaigns: ["seasonal_sale", "brand_awareness"]
+    keyword_boost:
+      - "modern"
+      - "comfortable"
+      - "durable"
+      
+  groceries:
+    max_ad_ratio: 0.15
+    preferred_campaigns: ["brand_awareness", "promotional"]
+    keyword_boost:
+      - "organic"
+      - "fresh"
+      - "healthy"
+
+# Revenue optimization
+revenue_optimization:
+  ctr_weight: 0.4
+  bid_weight: 0.6
+  user_value_weight: 0.3
+  
+# Ad quality controls
+quality_controls:
+  min_ctr_threshold: 0.02  # Minimum 2% CTR
+  max_frequency_cap: 3  # Max 3 ads per user per session
+  brand_safety:
+    blocked_keywords:
+      - "inappropriate"
+      - "spam"
+    required_verification: true
+
+# A/B testing configuration
+ab_testing:
+  enabled: true
+  test_groups:
+    - name: "high_ad_ratio"
+      ad_ratio: 0.4
+      traffic_percentage: 0.1
+    - name: "low_ad_ratio" 
+      ad_ratio: 0.2
+      traffic_percentage: 0.1
+    - name: "control"
+      ad_ratio: 0.3
+      traffic_percentage: 0.8
+
+# Real-time bidding configuration
+rtb_config:
+  enabled: true
+  auction_timeout: 100  # milliseconds
+  min_bid_increment: 0.01
+  reserve_price: 0.50

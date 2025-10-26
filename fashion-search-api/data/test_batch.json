@@ -1,0 +1,12 @@
+[
+  {"id": 1001, "title": "Red Cotton T-Shirt", "description": "Comfortable red cotton t-shirt perfect for casual wear", "category": "Clothing", "price": 19.99, "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"},
+  {"id": 1002, "title": "Blue Denim Jeans", "description": "Classic blue denim jeans for everyday wear", "category": "Clothing", "price": 49.99, "image_url": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400"},
+  {"id": 1003, "title": "Black Leather Jacket", "description": "Stylish black leather jacket for cool weather", "category": "Clothing", "price": 129.99, "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400"},
+  {"id": 1004, "title": "White Sneakers", "description": "Clean white sneakers for casual and athletic wear", "category": "Footwear", "price": 79.99, "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400"},
+  {"id": 1005, "title": "Green Summer Dress", "description": "Light green summer dress perfect for warm weather", "category": "Clothing", "price": 39.99, "image_url": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400"},
+  {"id": 1006, "title": "Brown Leather Boots", "description": "Durable brown leather boots for outdoor activities", "category": "Footwear", "price": 99.99, "image_url": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=400"},
+  {"id": 1007, "title": "Gray Hoodie", "description": "Comfortable gray hoodie for relaxed style", "category": "Clothing", "price": 34.99, "image_url": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400"},
+  {"id": 1008, "title": "Pink Blouse", "description": "Elegant pink blouse for professional or casual wear", "category": "Clothing", "price": 29.99, "image_url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400"},
+  {"id": 1009, "title": "Navy Blue Suit", "description": "Professional navy blue suit for business occasions", "category": "Clothing", "price": 199.99, "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400"},
+  {"id": 1010, "title": "Yellow Raincoat", "description": "Bright yellow raincoat for wet weather protection", "category": "Clothing", "price": 59.99, "image_url": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400"}
+]

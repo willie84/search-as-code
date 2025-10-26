@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - WEAVIATE_URL=${WEAVIATE_URL}
+    volumes:
+      - ./api:/app/api
+      - ./config:/app/config
+      - ./data:/app/data
+    depends_on:
+      - weaviate
+
+  weaviate:
+    image: semitechnologies/weaviate:latest
+    ports:
+      - "8080:8080"
+    environment:
+      - WEAVIATE_AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED=true
+      - WEAVIATE_PERSISTENCE_DATA_PATH=/var/lib/weaviate
+    volumes:
+      - weaviate_data:/var/lib/weaviate
+
+volumes:
+  weaviate_data:

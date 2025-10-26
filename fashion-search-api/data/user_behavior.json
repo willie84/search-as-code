@@ -1,0 +1,2553 @@
+{
+  "-t2P8Rj1cSOx2Js2TZrwsA4RgotyTIZ2y8C_cgcdQ58": {
+    "views": [
+      {
+        "product_id": "test_1",
+        "timestamp": "2025-10-26T01:16:36.794326",
+        "category": "Clothing",
+        "price": 19.99,
+        "title": "Red Cotton T-Shirt"
+      }
+    ],
+    "clicks": [],
+    "searches": [],
+    "preferences": {},
+    "created_at": "2025-10-26T01:16:36.794239"
+  },
+  "tt6UHmRohYqx94rEweXkDEjSUGeYkAqyVWl5jjAs5dI": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T01:49:09.189880",
+        "results_count": 0,
+        "domain": "electronics"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T01:49:09.189824"
+  },
+  "6pVOTxO4QbVuUi8-1WNqOszWbZXNpiI3mgIqpcz-lAY": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "apples",
+        "timestamp": "2025-10-26T01:52:28.233321",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T01:52:32.116347",
+        "results_count": 0,
+        "domain": "electronics"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T01:52:28.233300"
+  },
+  "f7es7SbiNUloBWQSmgvaUXKeyKl6RFM2dCM8W_-sVI0": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T02:02:15.476313",
+        "results_count": 0,
+        "domain": "electronics"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:04:01.135397",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:07:28.865006",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:07:37.038398",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:13:52.842647",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:14:02.733888",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:15:19.529502",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:19:48.443050",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:19:57.965200",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:50:02.354671",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:50:07.469917",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:57:56.491929",
+        "results_count": 2,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:03:51.400310",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:04:37.778057",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:04:42.665258",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:04:46.939961",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:04:52.030830",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:04:56.503575",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:05:00.803041",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:05:04.931442",
+        "results_count": 6,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:05:09.800128",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:05:14.464822",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:05:19.379176",
+        "results_count": 6,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:05:25.401884",
+        "results_count": 6,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:05:32.007413",
+        "results_count": 5,
+        "domain": "electronics"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:05:37.433636",
+        "results_count": 5,
+        "domain": "furniture"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:05:43.787981",
+        "results_count": 5,
+        "domain": "groceries"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:05:50.719662",
+        "results_count": 6,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:09:40.332341",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:09:45.659317",
+        "results_count": 0,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T01:53:34.972103"
+  },
+  "ZcqOYp0TQYMq2Sijx4OX6h398GXdMxaaKTiLqrKlxeI": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T01:56:56.211079",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T01:57:01.471371",
+        "results_count": 0,
+        "domain": "electronics"
+      },
+      {
+        "query": "furniture",
+        "timestamp": "2025-10-26T01:57:19.693123",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T01:59:28.854863",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T01:59:34.632060",
+        "results_count": 0,
+        "domain": "electronics"
+      },
+      {
+        "query": "apples",
+        "timestamp": "2025-10-26T01:59:40.519638",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:00:43.158895",
+        "results_count": 11,
+        "domain": "clothing"
+      },
+      {
+        "query": "games",
+        "timestamp": "2025-10-26T02:00:52.108929",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "furniture",
+        "timestamp": "2025-10-26T02:01:02.349131",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:04:19.178049",
+        "results_count": 15,
+        "domain": "clothing"
+      },
+      {
+        "query": "apples",
+        "timestamp": "2025-10-26T02:04:36.206864",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "computer",
+        "timestamp": "2025-10-26T02:04:40.820212",
+        "results_count": 0,
+        "domain": "electronics"
+      },
+      {
+        "query": "computer",
+        "timestamp": "2025-10-26T02:04:48.034235",
+        "results_count": 0,
+        "domain": "electronics"
+      },
+      {
+        "query": "furniture",
+        "timestamp": "2025-10-26T02:04:57.701082",
+        "results_count": 2,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T01:56:56.211068"
+  },
+  "44GEiAX870cF_FXnFOg_7yUMuV1LlfxIJcxWI4bsfdY": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:08:05.881785",
+        "results_count": 15,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:08:05.881749"
+  },
+  "uZZdG-CPSJ4Nb1_7-ECCtfxy0lFgCb0uIc55MfqBk-4": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:10:21.259227",
+        "results_count": 15,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:10:21.259094"
+  },
+  "qKJ6YLFPD5TQ6ClHxXTJSNwqkKvwcKmlkHPMSE_6UO0": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:10:42.492450",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:10:48.956438",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "w",
+        "timestamp": "2025-10-26T02:10:53.690237",
+        "results_count": 19,
+        "domain": "clothing"
+      },
+      {
+        "query": "wo",
+        "timestamp": "2025-10-26T02:10:53.883085",
+        "results_count": 16,
+        "domain": "clothing"
+      },
+      {
+        "query": "wom",
+        "timestamp": "2025-10-26T02:10:54.154382",
+        "results_count": 15,
+        "domain": "clothing"
+      },
+      {
+        "query": "wome",
+        "timestamp": "2025-10-26T02:10:54.378187",
+        "results_count": 15,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:10:54.471521",
+        "results_count": 15,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:11:10.237923",
+        "results_count": 15,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:11:18.129692",
+        "results_count": 15,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:11:33.643879",
+        "results_count": 15,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:11:52.101794",
+        "results_count": 15,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:12:23.685707",
+        "results_count": 15,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:15:11.992892",
+        "results_count": 10,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:10:42.492381"
+  },
+  "3kPLxHSBsM9nYdrxWpivQxIShZoAzqURaQNwm368dtU": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:24.431196",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:43.069864",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:47.260099",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:49.313498",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:49.748686",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:51.062908",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:53.295263",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:53.592031",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:55.392534",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:57.749846",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:17:58.681868",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:18:00.248962",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:18:01.707335",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:18:04.293116",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:18:05.231639",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:18:16.051208",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:18:16.935711",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:18:21.652679",
+        "results_count": 5,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:17:24.431164"
+  },
+  "gqxGBE4visB8iivShYIhZ6PYH-weKAyYY59CxD3SpMY": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:22:50.001032",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:22:53.913304",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:22:55.955529",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:23:00.111163",
+        "results_count": 0,
+        "domain": "electronics"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:23:00.625865",
+        "results_count": 0,
+        "domain": "electronics"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:23:01.262335",
+        "results_count": 0,
+        "domain": "electronics"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:22:50.000996"
+  },
+  "dvRHFJ3Bd0ZYu1-ecd6DJ8DX6FsEbCDh62MkEhVuLyc": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:23:30.554329",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:23:31.989542",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:23:32.086068",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:23:50.335022",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:23:50.443797",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:46:32.251581",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:46:32.674823",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:46:40.568358",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:46:41.206024",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:46:41.649459",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:46:47.646761",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:46:47.999009",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:47:13.669582",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:47:14.123175",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:47:15.867400",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:47:16.107444",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:47:32.826555",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:47:32.964076",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:47:33.195381",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:47:33.346708",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:47:33.644610",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:47:33.792510",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "",
+        "timestamp": "2025-10-26T02:48:51.241639",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "",
+        "timestamp": "2025-10-26T02:48:51.404580",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:49:11.583751",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:49:11.732025",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T02:49:18.772707",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T02:49:18.920386",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "shoes",
+        "timestamp": "2025-10-26T02:49:29.146204",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "shoes",
+        "timestamp": "2025-10-26T02:49:29.294937",
+        "results_count": 0,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:23:22.724032"
+  },
+  "GqcST85YL8CPuXtin7_EtHv-ej_3RxhATxaDtYEy9eI": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:51:26.533856",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:51:27.419911",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:51:34.226901",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:51:34.703260",
+        "results_count": 5,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:51:26.533763"
+  },
+  "sKjPVtHjOoODVK66GbwQ2WKvB3b9awK07pGnT9XdTIY": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:51:50.298900",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:52:06.106246",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:53:36.471438",
+        "results_count": 1,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:51:50.298845"
+  },
+  "kEHuIrS9JNjW1q2YKMxApDflwiwPohvB9Oo8xWWe5ss": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T02:54:04.100181",
+        "results_count": 1,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:54:04.100144"
+  },
+  "LYCwqYCq19hXmnGVhTyZVRsoCikzN1PV6jnkg6opg98": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "winter",
+        "timestamp": "2025-10-26T02:55:39.253953",
+        "results_count": 2,
+        "domain": "clothing"
+      },
+      {
+        "query": "winter",
+        "timestamp": "2025-10-26T02:55:39.581975",
+        "results_count": 2,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T02:55:48.986223",
+        "results_count": 0,
+        "domain": "electronics"
+      },
+      {
+        "query": "apples",
+        "timestamp": "2025-10-26T02:55:55.273958",
+        "results_count": 0,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:55:39.253902"
+  },
+  "YjsT2xivBia4gJwIJhufbb-AsrdX3-89fbjM2aPidnI": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "apples",
+        "timestamp": "2025-10-26T02:57:17.434116",
+        "results_count": 0,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:57:17.433522"
+  },
+  "4QXDBwOUB-CG1c_vgUlyflTK61mTtgKZxrS24WE-LaY": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "apples",
+        "timestamp": "2025-10-26T02:58:43.411026",
+        "results_count": 0,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:58:43.410990"
+  },
+  "ZXfWGyRMLpaE6gQPALvGiCxfV11yfYSXKtmzGl4HB0g": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T02:59:42.245913",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "",
+        "timestamp": "2025-10-26T03:00:38.686887",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:01:45.844965",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:01:50.469402",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:02:00.550329",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:02:00.877044",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:02:06.107549",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:02:07.676468",
+        "results_count": 3,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T02:59:42.245896"
+  },
+  "LfcFKoiTrvILMfFPBk3uIGkw-Ocb4qNnOyckUvJxlZM": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:02:47.681109",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:03:04.873292",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:03:07.809189",
+        "results_count": 3,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:02:47.681070"
+  },
+  "xmBt-lMD65ja1_LpYb-3MYNqRcbfd7Ajov8htbL7Io8": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:06:10.345340",
+        "results_count": 3,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:06:10.344937"
+  },
+  "USTKXWyGUflf_yDSWHHumuABHYqh0N008olZC0qFEYU": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:06:11.732873",
+        "results_count": 3,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:06:11.732864"
+  },
+  "Yw-gaAgW7sB17PzVdHr92Ticr56SF_h_WxcX7ue7Jwg": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:06:12.936053",
+        "results_count": 3,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:06:12.936038"
+  },
+  "_DF2AuWaV_FF-0KRNeRBgpILJPJw009Ahxw1GtYnvHA": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:06:13.950253",
+        "results_count": 3,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:06:13.950246"
+  },
+  "rw8zKiF6BfL8aqm24Bu-MD9SreKP58gbe2cMzgA2D8s": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:06:58.280098",
+        "results_count": 3,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:06:58.280054"
+  },
+  "Pv-ET00ghSfR4v5MDuhdNGi24jV72x6Vt8HVutb0wEE": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:06:59.483288",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:04.922122",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:08.404124",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:18.684189",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:26.760259",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:31.132165",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:34.784744",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:35.315577",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:36.696815",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:37.596391",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:38.470650",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:07:40.605139",
+        "results_count": 1,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:06:59.483277"
+  },
+  "egWHSE2br8tMiIlzH8DRhYlG6QP4LXnXAn2K_3QnXtY": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:10:03.977320",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:30:27.904885",
+        "results_count": 0,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:10:03.964873"
+  },
+  "2HaeY9MKH2bZiU_MK5tgYEA0i0C4qSTBWSW168-uZzU": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T03:11:56.955224",
+        "results_count": 1,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:11:56.955099"
+  },
+  "cyu_0Zdtoutp9TloOXoDd_hVVS6PNqsvdpmpECJtQQY": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T03:12:00.386505",
+        "results_count": 1,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:12:00.386490"
+  },
+  "_hSxojgOS2TuM8WGKVX4t22c_U9Vq4AsUW2lPl8CT1Y": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T03:12:01.188249",
+        "results_count": 1,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:12:01.188230"
+  },
+  "Yg4l4Pq_mJs8fwDGK9Tdcw4TD8p-RjWsks490DNMXEk": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:12:12.894523",
+        "results_count": 2,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:12:22.903095",
+        "results_count": 2,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:12:29.042684",
+        "results_count": 2,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T03:12:29.442182",
+        "results_count": 2,
+        "domain": "clothing"
+      },
+      {
+        "query": "",
+        "timestamp": "2025-10-26T03:12:44.266148",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "",
+        "timestamp": "2025-10-26T03:12:47.202376",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbags",
+        "timestamp": "2025-10-26T03:12:59.570332",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbags",
+        "timestamp": "2025-10-26T03:13:02.642794",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbags",
+        "timestamp": "2025-10-26T03:13:03.751497",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbags",
+        "timestamp": "2025-10-26T03:13:06.508857",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:13:50.359324",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:13:51.325702",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:13:52.634852",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:13:53.779304",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:13:55.073437",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:13:55.544200",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:13:56.511174",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:14:01.646072",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:14:02.637159",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:14:06.961352",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:14:09.239176",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:14:11.030859",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:14:11.343496",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T03:14:13.721033",
+        "results_count": 0,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T03:12:12.894489"
+  },
+  "IoOS5Gga56kNKmtR9Jc5p6ttqRhrXoO0SM5TS-57ass": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:27:47.243206",
+        "results_count": 2,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T09:28:11.031780",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T09:28:16.259489",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T09:28:22.271980",
+        "results_count": 1,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T09:27:47.243196"
+  },
+  "UHwYTU1fYtowv58bamZqDKX08TkNIfzNf-JunJ_be1I": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:30:38.943562",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:31:08.408875",
+        "results_count": 6,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:31:15.403046",
+        "results_count": 6,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:36:22.507071",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T09:36:40.346198",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:37:16.548776",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:37:28.513235",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:37:49.441211",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:37:58.539565",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:38:03.995367",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:38:15.314790",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:38:52.632797",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:38:59.212802",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:39:04.176904",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:39:13.060104",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:39:22.514360",
+        "results_count": 3,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:39:27.845127",
+        "results_count": 6,
+        "domain": "clothing"
+      },
+      {
+        "query": "women handbag",
+        "timestamp": "2025-10-26T10:03:11.306214",
+        "results_count": 1,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:03:22.157879",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:03:31.998219",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:03:40.408133",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:03:49.373871",
+        "results_count": 5,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T09:30:38.943541"
+  },
+  "X8sG6_mvmOHV4eyFbQpBrRNEFbmuWPwVy9OcGc-6pfQ": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:24:33.144729",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:25:10.898312",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:25:12.626206",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:25:14.662364",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:25:16.869938",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:25:17.207413",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:25:24.927208",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:25:37.666105",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:25:38.262454",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:25:41.497369",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:25:42.408293",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:26.232456",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:26.660833",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:28.250865",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:28.885488",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:38.263545",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:46.130490",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:48.509984",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:50.062614",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:57.848915",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:58.403709",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:58.982246",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:28:59.761631",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:29:01.557222",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:29:02.065606",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:29:32.836516",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:29:34.036091",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:29:34.790368",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:29:36.511177",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:29:37.398185",
+        "results_count": 10,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T09:44:57.055153"
+  },
+  "MzicjDCdE46J-fADTZqxjDHNsZeqKj-JiNwcU26sQ9k": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:48:53.818707",
+        "results_count": 5,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T09:48:53.818682"
+  },
+  "0Vn9ZlEaXoDVQQ6i6RwR6yudv_Zpd9hO4u1h_Dn1iCw": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:48:56.542762",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:48:57.518696",
+        "results_count": 5,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T09:48:56.542756"
+  },
+  "dKQ5oK2TGBGXa4dY2mwj8VYskGM2AlmSooRT807fRw4": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T09:49:00.519995",
+        "results_count": 5,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T09:49:00.519987"
+  },
+  "test_session_1": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T10:27:10.803825",
+        "results_count": 2,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:27:54.771545",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:31:01.592754",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:34:08.635122",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:35:46.612351",
+        "results_count": 5,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:27:10.803646"
+  },
+  "test_session_2": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:27:18.568438",
+        "results_count": 4,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:27:18.568421"
+  },
+  "test_session_3": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T10:27:23.999616",
+        "results_count": 4,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:27:23.999594"
+  },
+  "test_session_4": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "shirt",
+        "timestamp": "2025-10-26T10:27:30.141855",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "ring",
+        "timestamp": "2025-10-26T10:27:59.838394",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "ring",
+        "timestamp": "2025-10-26T10:31:11.681717",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "ring",
+        "timestamp": "2025-10-26T10:34:20.336697",
+        "results_count": 4,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:27:30.141830"
+  },
+  "test_session_5": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:27:33.995650",
+        "results_count": 5,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:27:33.995643"
+  },
+  "test_session_6": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "laptop",
+        "timestamp": "2025-10-26T10:27:37.841505",
+        "results_count": 0,
+        "domain": "electronics"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:27:37.841474"
+  },
+  "test_session_7": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:27:42.188339",
+        "results_count": 5,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:27:42.188331"
+  },
+  "test_session_8": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "",
+        "timestamp": "2025-10-26T10:27:46.026633",
+        "results_count": 10,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:27:46.026570"
+  },
+  "test_session_premium": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:31:06.957758",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:34:14.855381",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:35:55.165194",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:44:27.535856",
+        "results_count": 6,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:44:55.055404",
+        "results_count": 6,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:31:06.957721"
+  },
+  "RogMu4tgXvfvT7F7LaNPse1sLXVIUUb-nwoC9uYGH70": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:31:29.859180",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:31:34.920707",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:31:37.029630",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:31:39.318245",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:31:42.526814",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:31:44.083889",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:31:54.016660",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:31:56.590175",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:31:58.699044",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:31:59.960249",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:32:07.860840",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:32:20.899248",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:32:21.702958",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:32:23.000241",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:32:29.793642",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:32:38.970216",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:32:44.090032",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:33:01.333849",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:34:54.604127",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:34:56.656353",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:34:57.816286",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:34:58.777102",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:35:12.134215",
+        "results_count": 10,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:35:20.983500",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:36:15.326327",
+        "results_count": 9,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:31:29.859164"
+  },
+  "ewsCamCMEElCjMwHY2kcOLUDzsMXNWyAP3M-1ExSp4o": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:36:26.471967",
+        "results_count": 10,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:36:26.471957"
+  },
+  "-tgYLwntpEmnqt6jQP_YTjDWTF73b1rnWAu6WXwPa8Y": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:36:54.389507",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:36:59.041466",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "ring",
+        "timestamp": "2025-10-26T10:37:02.112406",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:37:04.164783",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:37:06.310050",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T10:37:12.032633",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:37:21.094720",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "ring",
+        "timestamp": "2025-10-26T10:37:40.814382",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T10:37:52.640475",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:37:57.829790",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:38:05.710751",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T10:38:11.906008",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:39:13.818649",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:39:18.919579",
+        "results_count": 9,
+        "domain": "clothing"
+      },
+      {
+        "query": "ring",
+        "timestamp": "2025-10-26T10:39:26.431612",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T10:39:29.345247",
+        "results_count": 4,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:36:54.389416"
+  },
+  "test_session_launch": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T10:41:16.844630",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "new",
+        "timestamp": "2025-10-26T10:50:54.235544",
+        "results_count": 5,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T10:50:59.624886",
+        "results_count": 4,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:41:16.844619"
+  },
+  "test_session_blackfriday": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:41:28.885328",
+        "results_count": 6,
+        "domain": "clothing"
+      },
+      {
+        "query": "sale",
+        "timestamp": "2025-10-26T10:50:33.654585",
+        "results_count": 6,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:41:28.885299"
+  },
+  "test_session_highbudget": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "dress",
+        "timestamp": "2025-10-26T10:41:35.695193",
+        "results_count": 2,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:41:35.695183"
+  },
+  "akDni1Y0UqRcS7T1YlbIYofqGxSSLqS_mBvPHd7Lz_o": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:41:46.135443",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T10:41:52.165461",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:41:57.719304",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:42:04.305935",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "ring",
+        "timestamp": "2025-10-26T10:42:09.687162",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:42:13.515045",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:42:14.860711",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "ring",
+        "timestamp": "2025-10-26T10:42:16.593581",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "handbag",
+        "timestamp": "2025-10-26T10:42:21.884210",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:43:28.594343",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:43:33.025633",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:43:40.429625",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:43:46.610320",
+        "results_count": 8,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:41:46.135434"
+  },
+  "test_session_vip": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:45:04.039710",
+        "results_count": 6,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:45:04.039673"
+  },
+  "test_session_standard": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:45:12.257129",
+        "results_count": 6,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:45:12.257091"
+  },
+  "2nk1Vb0g3aL03D7aX5_w1ZEhd5RXpYBR7SqpOrZ6FJY": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:46:13.263415",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:46:20.027836",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:46:29.273149",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:46:30.315484",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:46:33.420262",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "ring",
+        "timestamp": "2025-10-26T10:46:37.813871",
+        "results_count": 4,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:46:53.473792",
+        "results_count": 8,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:46:13.263405"
+  },
+  "XYIGRq8Gt_Gi3RR0lf-yOQjMU6KJ3_aDRX1KmCpyH8c": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:49:26.404033",
+        "results_count": 8,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:49:30.956118",
+        "results_count": 8,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:49:26.404012"
+  },
+  "VKj2xOQYdBE6_MdZA9Kj5mIgbyyuhpRT-ufWMHUqa28": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:49:37.054683",
+        "results_count": 8,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:49:37.054675"
+  },
+  "QDqiDq7gq9H9xZaPc028TtMYK9glBdRtgbPOThBHcQA": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "handbags",
+        "timestamp": "2025-10-26T10:50:04.162462",
+        "results_count": 0,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:50:04.162459"
+  },
+  "test_session_budget": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "cheap",
+        "timestamp": "2025-10-26T10:50:40.914319",
+        "results_count": 0,
+        "domain": "clothing"
+      },
+      {
+        "query": "bag",
+        "timestamp": "2025-10-26T10:50:46.848280",
+        "results_count": 6,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:50:40.914295"
+  },
+  "T47GnN28LVcb9zGyL4rDlQj-DmSUh0mMmbuQ_O9dQtE": {
+    "views": [],
+    "clicks": [],
+    "searches": [
+      {
+        "query": "women",
+        "timestamp": "2025-10-26T10:52:04.461268",
+        "results_count": 8,
+        "domain": "clothing"
+      }
+    ],
+    "preferences": {},
+    "created_at": "2025-10-26T10:52:04.461261"
+  }
+}

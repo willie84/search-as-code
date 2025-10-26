@@ -1,0 +1,26 @@
+[
+  {
+    "id": "test_1",
+    "title": "Test T-Shirt",
+    "description": "A comfortable cotton t-shirt for testing",
+    "price": 19.99,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+    "category": "Clothing"
+  },
+  {
+    "id": "test_2", 
+    "title": "Test Jeans",
+    "description": "Classic blue denim jeans",
+    "price": 49.99,
+    "image_url": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400",
+    "category": "Clothing"
+  },
+  {
+    "id": "test_3",
+    "title": "Test Laptop",
+    "description": "High-performance laptop for work and gaming",
+    "price": 999.99,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+    "category": "Electronics"
+  }
+]

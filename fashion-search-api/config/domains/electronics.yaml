@@ -1,0 +1,41 @@
+# Electronics E-commerce Search Configuration
+retrieval:
+  semantic:
+    weight: 0.6  # High weight for technical specifications
+    model: "bge-large-en"
+  keyword:
+    weight: 0.4  # Important for exact model numbers, specs
+  visual:
+    weight: 0.0  # Less visual search for electronics
+
+ranking:
+  objectives:
+    - technical_specs  # Match technical requirements
+    - brand_reputation  # Trusted brands
+    - price_performance  # Best value
+  features:
+    - text_similarity
+    - spec_matching
+    - brand_trust
+    - performance_rating
+  weights:
+    relevance: 0.8
+    personalization: 0.1
+    business_priority: 0.1
+
+# Electronics-specific ranking factors
+electronics_factors:
+  spec_matching: 1.4      # Boost matching specifications
+  brand_reputation: 1.2   # Boost trusted brands
+  performance_rating: 1.3 # Boost high-performance items
+  energy_efficiency: 1.1  # Boost energy-efficient items
+  warranty_coverage: 1.1  # Boost items with good warranty
+
+# Search behavior
+search_behavior:
+  filter_by_brand: true
+  filter_by_specs: true
+  show_technical_specs: true
+  show_ratings: true
+  group_by_category: true
+  sort_by_performance: true

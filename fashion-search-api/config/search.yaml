@@ -1,0 +1,33 @@
+retrieval:
+  semantic:
+    weight: 0.6
+    model: "bge-large-en"
+  keyword:
+    weight: 0.2
+  visual:
+    weight: 0.2
+    model: "clip-vit-b32"
+
+ranking:
+  objectives:
+    - click_through_rate
+    - diversity
+  features:
+    - text_similarity
+    - visual_similarity
+  weights:
+    relevance: 0.9
+    personalization: 0.1
+    business_priority: 0.0
+
+# Legacy support (maintained for backward compatibility)
+ranking_weights:
+  text: 1.0
+  image: 1.0
+
+retrieval_models:
+  text_model: "bm25"
+  image_model: "open_clip"
+
+objective_functions:
+  ranking: "weighted_sum"

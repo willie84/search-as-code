@@ -1,0 +1,38 @@
+# Groceries E-commerce Search Configuration
+retrieval:
+  semantic:
+    weight: 0.7  # Higher weight for semantic search (brand names, categories)
+    model: "bge-large-en"
+  keyword:
+    weight: 0.3  # Lower weight for exact matches
+  visual:
+    weight: 0.0  # No visual search for groceries
+
+ranking:
+  objectives:
+    - freshness  # Prioritize fresh items
+    - popularity  # Popular items first
+    - price_competitiveness
+  features:
+    - text_similarity
+    - brand_recognition
+    - category_relevance
+  weights:
+    relevance: 0.8
+    personalization: 0.1
+    business_priority: 0.1
+
+# Grocery-specific ranking factors
+grocery_factors:
+  freshness_boost: 1.2  # Boost fresh produce
+  brand_premium: 1.1    # Slight boost for premium brands
+  organic_boost: 1.15   # Boost organic products
+  seasonal_boost: 1.1   # Boost seasonal items
+
+# Search behavior
+search_behavior:
+  auto_suggest_categories: true
+  highlight_nutritional_info: true
+  show_expiry_dates: true
+  group_by_brand: false
+  sort_by_price: true

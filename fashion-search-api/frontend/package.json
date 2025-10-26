@@ -1,0 +1,32 @@
+{
+  "name": "fashion-search-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the Fashion Search-as-Code API using Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "form-data": "^4.0.4",
+    "formidable": "^3.5.4",
+    "next": "^12.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^12.0.0"
+  },
+  "keywords": [
+    "fashion",
+    "e-commerce",
+    "search",
+    "api",
+    "nextjs"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

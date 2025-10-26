@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test_1",
+    "title": "Red Cotton T-Shirt",
+    "description": "Comfortable red cotton t-shirt perfect for casual wear",
+    "category": "Clothing",
+    "price": 19.99,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+  },
+  {
+    "id": "test_2",
+    "title": "Gaming Laptop",
+    "description": "High-performance gaming laptop with RTX graphics",
+    "category": "Electronics",
+    "price": 1299.99,
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400"
+  },
+  {
+    "id": "test_3",
+    "title": "Modern Sofa",
+    "description": "Contemporary 3-seater sofa in neutral colors",
+    "category": "Furniture",
+    "price": 899.99,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400"
+  },
+  {
+    "id": "test_4",
+    "title": "Organic Apples",
+    "description": "Fresh organic red apples from local farm",
+    "category": "Groceries",
+    "price": 4.99,
+    "image_url": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400"
+  }
+]

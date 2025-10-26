@@ -1,0 +1,41 @@
+# Furniture E-commerce Search Configuration
+retrieval:
+  semantic:
+    weight: 0.5  # Moderate weight for style/room matching
+    model: "bge-large-en"
+  keyword:
+    weight: 0.3  # Important for exact dimensions, materials
+  visual:
+    weight: 0.2  # Visual search for style matching
+
+ranking:
+  objectives:
+    - style_matching  # Match room style
+    - quality_rating  # Customer reviews matter
+    - price_value     # Value for money
+  features:
+    - text_similarity
+    - visual_similarity
+    - style_compatibility
+    - room_matching
+  weights:
+    relevance: 0.7
+    personalization: 0.2
+    business_priority: 0.1
+
+# Furniture-specific ranking factors
+furniture_factors:
+  style_matching: 1.3    # Boost matching styles
+  room_compatibility: 1.2  # Boost room-appropriate items
+  quality_rating: 1.15   # Boost highly-rated items
+  material_premium: 1.1  # Boost premium materials
+  size_appropriateness: 1.1  # Boost size-appropriate items
+
+# Search behavior
+search_behavior:
+  filter_by_room: true
+  filter_by_style: true
+  show_dimensions: true
+  show_materials: true
+  group_by_collection: true
+  sort_by_style: true

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "Wool Scarf",
+    "description": "Soft wool scarf in various colors",
+    "category": "Clothing",
+    "price": 38.89,
+    "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 2,
+    "title": "Tablet",
+    "description": "10-inch tablet with high-resolution display",
+    "category": "Electronics",
+    "price": 272.17,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 3,
+    "title": "Coffee Table",
+    "description": "Modern coffee table with storage",
+    "category": "Furniture",
+    "price": 186.98,
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 4,
+    "title": "Organic Spinach",
+    "description": "Fresh organic spinach leaves",
+    "category": "Groceries",
+    "price": 3.42,
+    "image_url": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 5,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 42.83,
+    "image_url": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 6,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 31.55,
+    "image_url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 7,
+    "title": "Monitor",
+    "description": "27-inch 4K monitor for work and entertainment",
+    "category": "Electronics",
+    "price": 231.19,
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 8,
+    "title": "Ergonomic Office Chair",
+    "description": "Comfortable office chair with lumbar support",
+    "category": "Furniture",
+    "price": 267.2,
+    "image_url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 9,
+    "title": "Black Leather Jacket",
+    "description": "Premium leather jacket with classic styling",
+    "category": "Clothing",
+    "price": 134.66,
+    "image_url": "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 10,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 60.06,
+    "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 11,
+    "title": "Wool Scarf",
+    "description": "Soft wool scarf in various colors",
+    "category": "Clothing",
+    "price": 52.52,
+    "image_url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 12,
+    "title": "Winter Coat",
+    "description": "Warm winter coat for cold weather",
+    "category": "Clothing",
+    "price": 134.25,
+    "image_url": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 13,
+    "title": "Dining Table",
+    "description": "6-person wooden dining table",
+    "category": "Furniture",
+    "price": 448.94,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 14,
+    "title": "Avocados",
+    "description": "Fresh ripe avocados, perfect for salads",
+    "category": "Groceries",
+    "price": 2.05,
+    "image_url": "https://images.unsplash.com/photo-1571212058254-8c75d0b4c8b2?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 15,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 40.22,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 16,
+    "title": "Winter Coat",
+    "description": "Warm winter coat for cold weather",
+    "category": "Clothing",
+    "price": 153.38,
+    "image_url": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 17,
+    "title": "Ergonomic Office Chair",
+    "description": "Comfortable office chair with lumbar support",
+    "category": "Furniture",
+    "price": 168.85,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 18,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 77.02,
+    "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 19,
+    "title": "Smart Watch",
+    "description": "Fitness tracking smartwatch with health monitoring",
+    "category": "Electronics",
+    "price": 395.36,
+    "image_url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 20,
+    "title": "Organic Spinach",
+    "description": "Fresh organic spinach leaves",
+    "category": "Groceries",
+    "price": 2.88,
+    "image_url": "https://images.unsplash.com/photo-1550583724-b2692b85b150?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 21,
+    "title": "Wardrobe",
+    "description": "Large wooden wardrobe with mirror",
+    "category": "Furniture",
+    "price": 458.61,
+    "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 22,
+    "title": "Quinoa",
+    "description": "Organic quinoa, perfect for healthy meals",
+    "category": "Groceries",
+    "price": 7.55,
+    "image_url": "https://images.unsplash.com/photo-1550583724-b2692b85b150?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 23,
+    "title": "Whole Wheat Bread",
+    "description": "Artisanal whole wheat bread baked daily",
+    "category": "Groceries",
+    "price": 3.55,
+    "image_url": "https://images.unsplash.com/photo-1571212058254-8c75d0b4c8b2?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 24,
+    "title": "Dining Table",
+    "description": "6-person wooden dining table",
+    "category": "Furniture",
+    "price": 324.12,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 25,
+    "title": "Bed Frame",
+    "description": "Queen size wooden bed frame",
+    "category": "Furniture",
+    "price": 492.42,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 26,
+    "title": "Sofa",
+    "description": "3-seater comfortable sofa",
+    "category": "Furniture",
+    "price": 747.97,
+    "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 27,
+    "title": "Black Leather Jacket",
+    "description": "Premium leather jacket with classic styling",
+    "category": "Clothing",
+    "price": 214.21,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 28,
+    "title": "Ergonomic Office Chair",
+    "description": "Comfortable office chair with lumbar support",
+    "category": "Furniture",
+    "price": 221.44,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 29,
+    "title": "Sofa",
+    "description": "3-seater comfortable sofa",
+    "category": "Furniture",
+    "price": 652.57,
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 30,
+    "title": "Tablet",
+    "description": "10-inch tablet with high-resolution display",
+    "category": "Electronics",
+    "price": 250.66,
+    "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 31,
+    "title": "Smart Watch",
+    "description": "Fitness tracking smartwatch with health monitoring",
+    "category": "Electronics",
+    "price": 150.64,
+    "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 32,
+    "title": "Organic Milk",
+    "description": "Fresh organic milk from grass-fed cows",
+    "category": "Groceries",
+    "price": 3.9,
+    "image_url": "https://images.unsplash.com/photo-1518569656558-1f25e69d93d7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 33,
+    "title": "Nightstand",
+    "description": "Wooden nightstand with drawer",
+    "category": "Furniture",
+    "price": 89.87,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 34,
+    "title": "Desk",
+    "description": "Modern office desk with drawers",
+    "category": "Furniture",
+    "price": 333.71,
+    "image_url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 35,
+    "title": "Desk",
+    "description": "Modern office desk with drawers",
+    "category": "Furniture",
+    "price": 287.3,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 36,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 37.81,
+    "image_url": "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 37,
+    "title": "Dining Table",
+    "description": "6-person wooden dining table",
+    "category": "Furniture",
+    "price": 354.13,
+    "image_url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 38,
+    "title": "Casual Sneakers",
+    "description": "Versatile sneakers for everyday comfort",
+    "category": "Clothing",
+    "price": 66.7,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 39,
+    "title": "Jeans",
+    "description": "Classic denim jeans in various fits",
+    "category": "Clothing",
+    "price": 68.94,
+    "image_url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 40,
+    "title": "Laptop",
+    "description": "High-performance laptop for work and gaming",
+    "category": "Electronics",
+    "price": 1098.65,
+    "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 41,
+    "title": "Bed Frame",
+    "description": "Queen size wooden bed frame",
+    "category": "Furniture",
+    "price": 480.21,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 42,
+    "title": "Dining Chair Set",
+    "description": "Set of 4 modern dining chairs",
+    "category": "Furniture",
+    "price": 285.85,
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 43,
+    "title": "Monitor",
+    "description": "27-inch 4K monitor for work and entertainment",
+    "category": "Electronics",
+    "price": 379.69,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 44,
+    "title": "Monitor",
+    "description": "27-inch 4K monitor for work and entertainment",
+    "category": "Electronics",
+    "price": 258.1,
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 45,
+    "title": "Bluetooth Speaker",
+    "description": "Portable wireless speaker with great sound",
+    "category": "Electronics",
+    "price": 63.41,
+    "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 46,
+    "title": "Dining Table",
+    "description": "6-person wooden dining table",
+    "category": "Furniture",
+    "price": 474.24,
+    "image_url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 47,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 39.51,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 48,
+    "title": "Desk",
+    "description": "Modern office desk with drawers",
+    "category": "Furniture",
+    "price": 205.98,
+    "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 49,
+    "title": "Desk",
+    "description": "Modern office desk with drawers",
+    "category": "Furniture",
+    "price": 349.53,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 50,
+    "title": "Gaming Console",
+    "description": "Latest gaming console with 4K support",
+    "category": "Electronics",
+    "price": 370.94,
+    "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 51,
+    "title": "Casual Sneakers",
+    "description": "Versatile sneakers for everyday comfort",
+    "category": "Clothing",
+    "price": 70.78,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 52,
+    "title": "Sofa",
+    "description": "3-seater comfortable sofa",
+    "category": "Furniture",
+    "price": 671.6,
+    "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 53,
+    "title": "Sofa",
+    "description": "3-seater comfortable sofa",
+    "category": "Furniture",
+    "price": 693.35,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 54,
+    "title": "Wardrobe",
+    "description": "Large wooden wardrobe with mirror",
+    "category": "Furniture",
+    "price": 397.55,
+    "image_url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 55,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 77.69,
+    "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 56,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 65.64,
+    "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 57,
+    "title": "Bookshelf",
+    "description": "5-tier wooden bookshelf",
+    "category": "Furniture",
+    "price": 168.24,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 58,
+    "title": "Winter Coat",
+    "description": "Warm winter coat for cold weather",
+    "category": "Clothing",
+    "price": 135.77,
+    "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 59,
+    "title": "Organic Apples",
+    "description": "Fresh organic apples from local farms",
+    "category": "Groceries",
+    "price": 7.18,
+    "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 60,
+    "title": "Casual Sneakers",
+    "description": "Versatile sneakers for everyday comfort",
+    "category": "Clothing",
+    "price": 67.51,
+    "image_url": "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 61,
+    "title": "Sofa",
+    "description": "3-seater comfortable sofa",
+    "category": "Furniture",
+    "price": 764.31,
+    "image_url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 62,
+    "title": "Free Range Eggs",
+    "description": "Farm-fresh eggs from free-range chickens",
+    "category": "Groceries",
+    "price": 5.6,
+    "image_url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 63,
+    "title": "Dining Chair Set",
+    "description": "Set of 4 modern dining chairs",
+    "category": "Furniture",
+    "price": 248.52,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 64,
+    "title": "Quinoa",
+    "description": "Organic quinoa, perfect for healthy meals",
+    "category": "Groceries",
+    "price": 5.74,
+    "image_url": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 65,
+    "title": "Whole Wheat Bread",
+    "description": "Artisanal whole wheat bread baked daily",
+    "category": "Groceries",
+    "price": 4.68,
+    "image_url": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 66,
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling wireless headphones",
+    "category": "Electronics",
+    "price": 136.76,
+    "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 67,
+    "title": "Nightstand",
+    "description": "Wooden nightstand with drawer",
+    "category": "Furniture",
+    "price": 73.02,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 68,
+    "title": "Coffee Table",
+    "description": "Modern coffee table with storage",
+    "category": "Furniture",
+    "price": 195.36,
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 69,
+    "title": "Monitor",
+    "description": "27-inch 4K monitor for work and entertainment",
+    "category": "Electronics",
+    "price": 455.4,
+    "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 70,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 76.34,
+    "image_url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 71,
+    "title": "Greek Yogurt",
+    "description": "Creamy Greek yogurt with live cultures",
+    "category": "Groceries",
+    "price": 4.12,
+    "image_url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 72,
+    "title": "Quinoa",
+    "description": "Organic quinoa, perfect for healthy meals",
+    "category": "Groceries",
+    "price": 7.53,
+    "image_url": "https://images.unsplash.com/photo-1550583724-b2692b85b150?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 73,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 55.45,
+    "image_url": "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 74,
+    "title": "Router",
+    "description": "High-speed WiFi router with mesh technology",
+    "category": "Electronics",
+    "price": 166.74,
+    "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 75,
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling wireless headphones",
+    "category": "Electronics",
+    "price": 172.01,
+    "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 76,
+    "title": "Smartphone",
+    "description": "Latest model smartphone with advanced features",
+    "category": "Electronics",
+    "price": 511.55,
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 77,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 50.19,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 78,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 47.23,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 79,
+    "title": "Greek Yogurt",
+    "description": "Creamy Greek yogurt with live cultures",
+    "category": "Groceries",
+    "price": 3.21,
+    "image_url": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 80,
+    "title": "Smartphone",
+    "description": "Latest model smartphone with advanced features",
+    "category": "Electronics",
+    "price": 509.16,
+    "image_url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 81,
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling wireless headphones",
+    "category": "Electronics",
+    "price": 103.38,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 82,
+    "title": "Tablet",
+    "description": "10-inch tablet with high-resolution display",
+    "category": "Electronics",
+    "price": 407.15,
+    "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 83,
+    "title": "Bookshelf",
+    "description": "5-tier wooden bookshelf",
+    "category": "Furniture",
+    "price": 122.64,
+    "image_url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 84,
+    "title": "Jeans",
+    "description": "Classic denim jeans in various fits",
+    "category": "Clothing",
+    "price": 86.76,
+    "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 85,
+    "title": "Ergonomic Office Chair",
+    "description": "Comfortable office chair with lumbar support",
+    "category": "Furniture",
+    "price": 208.75,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 86,
+    "title": "Router",
+    "description": "High-speed WiFi router with mesh technology",
+    "category": "Electronics",
+    "price": 124.47,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 87,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 66.83,
+    "image_url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 88,
+    "title": "Nightstand",
+    "description": "Wooden nightstand with drawer",
+    "category": "Furniture",
+    "price": 89.11,
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 89,
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling wireless headphones",
+    "category": "Electronics",
+    "price": 148.94,
+    "image_url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 90,
+    "title": "Avocados",
+    "description": "Fresh ripe avocados, perfect for salads",
+    "category": "Groceries",
+    "price": 2.16,
+    "image_url": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 91,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 56.89,
+    "image_url": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 92,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 47.56,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 93,
+    "title": "Coffee Table",
+    "description": "Modern coffee table with storage",
+    "category": "Furniture",
+    "price": 211.35,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 94,
+    "title": "Wool Scarf",
+    "description": "Soft wool scarf in various colors",
+    "category": "Clothing",
+    "price": 50.94,
+    "image_url": "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 95,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 44.33,
+    "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 96,
+    "title": "Camera",
+    "description": "Digital camera with professional features",
+    "category": "Electronics",
+    "price": 885.15,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 97,
+    "title": "Nightstand",
+    "description": "Wooden nightstand with drawer",
+    "category": "Furniture",
+    "price": 93.98,
+    "image_url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 98,
+    "title": "Black Leather Jacket",
+    "description": "Premium leather jacket with classic styling",
+    "category": "Clothing",
+    "price": 172.28,
+    "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 99,
+    "title": "Dining Table",
+    "description": "6-person wooden dining table",
+    "category": "Furniture",
+    "price": 415.3,
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&fm=jpg&w=800&fit=max"
+  },
+  {
+    "id": 100,
+    "title": "Bed Frame",
+    "description": "Queen size wooden bed frame",
+    "category": "Furniture",
+    "price": 492.67,
+    "image_url": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?q=80&fm=jpg&w=800&fit=max"
+  }
+]

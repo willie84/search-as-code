@@ -1,0 +1,6 @@
+id,title,description,price,image_url,color,style,fabric,occasion,category,brand
+11,Organic Apples,Fresh organic red apples from local farm,4.99,https://example.com/images/apples.jpg,red,fresh,organic,everyday,fruits,Local Farm
+12,Whole Wheat Bread,Artisanal whole wheat bread baked daily,3.49,https://example.com/images/bread.jpg,brown,artisanal,wheat,everyday,bakery,Artisan Bakery
+13,Organic Milk,Fresh organic milk from grass-fed cows,2.99,https://example.com/images/milk.jpg,white,fresh,organic,everyday,dairy,Organic Farms
+14,Free Range Eggs,Farm-fresh eggs from free-range chickens,5.99,https://example.com/images/eggs.jpg,white,fresh,organic,everyday,dairy,Free Range Co
+15,Organic Spinach,Fresh organic spinach leaves,2.49,https://example.com/images/spinach.jpg,green,fresh,organic,everyday,vegetables,Green Valley

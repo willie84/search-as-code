@@ -1,0 +1,45 @@
+{
+  "users": {
+    "1": {
+      "user_id": "1",
+      "email": "test@example.com",
+      "name": "Test User",
+      "password_hash": "20fc15918fb45a94af4fa70ef7b21a3c:ba09506b56d774641809ffeb4b4b0294bb711389467e35ed4b973c09aed86f57",
+      "preferences": {},
+      "created_at": "2025-10-26T01:44:08.824146",
+      "last_login": "2025-10-26T01:44:46.062902",
+      "profile": {
+        "favorite_categories": [],
+        "price_range": {
+          "min": 0,
+          "max": 1000
+        },
+        "interests": [],
+        "search_history": [],
+        "viewed_products": [],
+        "clicked_products": []
+      }
+    },
+    "2": {
+      "user_id": "2",
+      "email": "demo@example.com",
+      "name": "Demo User",
+      "password_hash": "5112401583eedaf2aa32ed2b00211169:fa1bd775df2c4f7fad5eaacbbc2439e13f11c126deac548407707c3d0129aee8",
+      "preferences": {},
+      "created_at": "2025-10-26T01:45:48.993940",
+      "last_login": "2025-10-26T01:56:52.350120",
+      "profile": {
+        "favorite_categories": [],
+        "price_range": {
+          "min": 0,
+          "max": 1000
+        },
+        "interests": [],
+        "search_history": [],
+        "viewed_products": [],
+        "clicked_products": []
+      }
+    }
+  },
+  "next_user_id": 3
+}

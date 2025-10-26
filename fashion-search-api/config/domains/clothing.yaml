@@ -1,0 +1,46 @@
+# Clothing E-commerce Search Configuration
+retrieval:
+  semantic:
+    weight: 0.4  # Moderate weight for style/occasion matching
+    model: "bge-large-en"
+  keyword:
+    weight: 0.2  # Less important for clothing
+  visual:
+    weight: 0.4  # High visual search for style matching
+
+ranking:
+  objectives:
+    - style_matching    # Match personal style
+    - occasion_fit     # Appropriate for occasion
+    - size_availability  # Available sizes
+    - trend_relevance   # Current trends
+  features:
+    - text_similarity
+    - visual_similarity
+    - style_compatibility
+    - occasion_matching
+    - size_availability
+  weights:
+    relevance: 0.6
+    personalization: 0.3
+    business_priority: 0.1
+
+# Clothing-specific ranking factors
+clothing_factors:
+  style_matching: 1.3      # Boost matching personal style
+  occasion_appropriateness: 1.2  # Boost appropriate for occasion
+  size_availability: 1.2   # Boost available sizes
+  trend_relevance: 1.15    # Boost trending items
+  color_coordination: 1.1  # Boost color-coordinated items
+  brand_preference: 1.1    # Boost preferred brands
+
+# Search behavior
+search_behavior:
+  filter_by_size: true
+  filter_by_color: true
+  filter_by_style: true
+  filter_by_occasion: true
+  show_size_guide: true
+  show_styling_tips: true
+  group_by_collection: true
+  sort_by_trend: true

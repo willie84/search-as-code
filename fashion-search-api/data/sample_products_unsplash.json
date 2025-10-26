@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 121.08,
+    "image_url": "https://images.unsplash.com/photo-6181079953?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 2,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 34.65,
+    "image_url": "https://images.unsplash.com/photo-8592693186?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 3,
+    "title": "Jeans",
+    "description": "Classic denim jeans in various fits",
+    "category": "Clothing",
+    "price": 44.36,
+    "image_url": "https://images.unsplash.com/photo-6242737209?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 4,
+    "title": "Sweater",
+    "description": "Cozy knit sweater for cold weather",
+    "category": "Clothing",
+    "price": 36.05,
+    "image_url": "https://images.unsplash.com/photo-3163804847?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 5,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 31.7,
+    "image_url": "https://images.unsplash.com/photo-7198377808?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 6,
+    "title": "Handbag",
+    "description": "Elegant handbag for everyday use",
+    "category": "Clothing",
+    "price": 93.58,
+    "image_url": "https://images.unsplash.com/photo-3052059385?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 7,
+    "title": "Jeans",
+    "description": "Classic denim jeans in various fits",
+    "category": "Clothing",
+    "price": 60.17,
+    "image_url": "https://images.unsplash.com/photo-2727678544?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 8,
+    "title": "Sunglasses",
+    "description": "Stylish sunglasses with UV protection",
+    "category": "Clothing",
+    "price": 38.89,
+    "image_url": "https://images.unsplash.com/photo-5521052903?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 9,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 37.78,
+    "image_url": "https://images.unsplash.com/photo-3009696415?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 10,
+    "title": "Baseball Cap",
+    "description": "Classic baseball cap in various colors",
+    "category": "Clothing",
+    "price": 28.98,
+    "image_url": "https://images.unsplash.com/photo-9862413726?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 11,
+    "title": "Baseball Cap",
+    "description": "Classic baseball cap in various colors",
+    "category": "Clothing",
+    "price": 25.32,
+    "image_url": "https://images.unsplash.com/photo-4996109533?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 12,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 65.59,
+    "image_url": "https://images.unsplash.com/photo-5722735909?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 13,
+    "title": "Casual Sneakers",
+    "description": "Versatile sneakers for everyday comfort",
+    "category": "Clothing",
+    "price": 59.53,
+    "image_url": "https://images.unsplash.com/photo-9916429270?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 14,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 30.47,
+    "image_url": "https://images.unsplash.com/photo-9572237679?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 15,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 34.8,
+    "image_url": "https://images.unsplash.com/photo-3669010475?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 16,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 32.1,
+    "image_url": "https://images.unsplash.com/photo-1960353035?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 17,
+    "title": "Sunglasses",
+    "description": "Stylish sunglasses with UV protection",
+    "category": "Clothing",
+    "price": 43.3,
+    "image_url": "https://images.unsplash.com/photo-2062796666?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 18,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 75.05,
+    "image_url": "https://images.unsplash.com/photo-4849092020?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 19,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 142.28,
+    "image_url": "https://images.unsplash.com/photo-6033094877?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 20,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 20.35,
+    "image_url": "https://images.unsplash.com/photo-5241607863?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 21,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 26.63,
+    "image_url": "https://images.unsplash.com/photo-7505153037?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 22,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 44.71,
+    "image_url": "https://images.unsplash.com/photo-4263291196?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 23,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 46.63,
+    "image_url": "https://images.unsplash.com/photo-6932904068?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 24,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 57.69,
+    "image_url": "https://images.unsplash.com/photo-9912926768?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 25,
+    "title": "Backpack",
+    "description": "Durable backpack for work and travel",
+    "category": "Clothing",
+    "price": 81.98,
+    "image_url": "https://images.unsplash.com/photo-7352717395?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 26,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 71.01,
+    "image_url": "https://images.unsplash.com/photo-3811589598?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 27,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 36.42,
+    "image_url": "https://images.unsplash.com/photo-7335287427?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 28,
+    "title": "Sweater",
+    "description": "Cozy knit sweater for cold weather",
+    "category": "Clothing",
+    "price": 68.07,
+    "image_url": "https://images.unsplash.com/photo-4460245839?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 29,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 59.63,
+    "image_url": "https://images.unsplash.com/photo-1998103623?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 30,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 15.04,
+    "image_url": "https://images.unsplash.com/photo-9199815147?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 31,
+    "title": "Casual Sneakers",
+    "description": "Versatile sneakers for everyday comfort",
+    "category": "Clothing",
+    "price": 68.12,
+    "image_url": "https://images.unsplash.com/photo-4534525594?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 32,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 46.11,
+    "image_url": "https://images.unsplash.com/photo-2072254845?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 33,
+    "title": "Sunglasses",
+    "description": "Stylish sunglasses with UV protection",
+    "category": "Clothing",
+    "price": 56.95,
+    "image_url": "https://images.unsplash.com/photo-8519437338?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 34,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 27.44,
+    "image_url": "https://images.unsplash.com/photo-2551128988?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 35,
+    "title": "Winter Coat",
+    "description": "Warm winter coat for cold weather",
+    "category": "Clothing",
+    "price": 95.19,
+    "image_url": "https://images.unsplash.com/photo-6670684310?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 36,
+    "title": "Wool Scarf",
+    "description": "Soft wool scarf in various colors",
+    "category": "Clothing",
+    "price": 40.0,
+    "image_url": "https://images.unsplash.com/photo-6271935454?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 37,
+    "title": "Handbag",
+    "description": "Elegant handbag for everyday use",
+    "category": "Clothing",
+    "price": 95.82,
+    "image_url": "https://images.unsplash.com/photo-1945541430?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 38,
+    "title": "Handbag",
+    "description": "Elegant handbag for everyday use",
+    "category": "Clothing",
+    "price": 65.61,
+    "image_url": "https://images.unsplash.com/photo-9753428180?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 39,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 63.43,
+    "image_url": "https://images.unsplash.com/photo-6708561896?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 40,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 60.45,
+    "image_url": "https://images.unsplash.com/photo-7002246788?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 41,
+    "title": "Jeans",
+    "description": "Classic denim jeans in various fits",
+    "category": "Clothing",
+    "price": 59.52,
+    "image_url": "https://images.unsplash.com/photo-7664936850?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 42,
+    "title": "Wool Scarf",
+    "description": "Soft wool scarf in various colors",
+    "category": "Clothing",
+    "price": 42.08,
+    "image_url": "https://images.unsplash.com/photo-7124076162?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 43,
+    "title": "Handbag",
+    "description": "Elegant handbag for everyday use",
+    "category": "Clothing",
+    "price": 106.76,
+    "image_url": "https://images.unsplash.com/photo-9460545498?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 44,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 68.61,
+    "image_url": "https://images.unsplash.com/photo-8309090920?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 45,
+    "title": "Winter Coat",
+    "description": "Warm winter coat for cold weather",
+    "category": "Clothing",
+    "price": 86.75,
+    "image_url": "https://images.unsplash.com/photo-7783495202?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 46,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 46.03,
+    "image_url": "https://images.unsplash.com/photo-9361742598?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 47,
+    "title": "Casual Sneakers",
+    "description": "Versatile sneakers for everyday comfort",
+    "category": "Clothing",
+    "price": 45.41,
+    "image_url": "https://images.unsplash.com/photo-9576128298?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 48,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 28.26,
+    "image_url": "https://images.unsplash.com/photo-1994062966?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 49,
+    "title": "Sunglasses",
+    "description": "Stylish sunglasses with UV protection",
+    "category": "Clothing",
+    "price": 71.74,
+    "image_url": "https://images.unsplash.com/photo-4611588243?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 50,
+    "title": "Backpack",
+    "description": "Durable backpack for work and travel",
+    "category": "Clothing",
+    "price": 51.67,
+    "image_url": "https://images.unsplash.com/photo-2938313345?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 51,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 30.72,
+    "image_url": "https://images.unsplash.com/photo-7926042015?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 52,
+    "title": "Black Leather Jacket",
+    "description": "Premium leather jacket with classic styling",
+    "category": "Clothing",
+    "price": 120.54,
+    "image_url": "https://images.unsplash.com/photo-6302903513?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 53,
+    "title": "Sunglasses",
+    "description": "Stylish sunglasses with UV protection",
+    "category": "Clothing",
+    "price": 75.4,
+    "image_url": "https://images.unsplash.com/photo-1300067252?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 54,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 77.61,
+    "image_url": "https://images.unsplash.com/photo-4763754844?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 55,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 49.68,
+    "image_url": "https://images.unsplash.com/photo-7309649562?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 56,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 140.03,
+    "image_url": "https://images.unsplash.com/photo-4430291558?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 57,
+    "title": "Sweater",
+    "description": "Cozy knit sweater for cold weather",
+    "category": "Clothing",
+    "price": 63.28,
+    "image_url": "https://images.unsplash.com/photo-7068124529?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 58,
+    "title": "Handbag",
+    "description": "Elegant handbag for everyday use",
+    "category": "Clothing",
+    "price": 67.57,
+    "image_url": "https://images.unsplash.com/photo-9229881223?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 59,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 138.35,
+    "image_url": "https://images.unsplash.com/photo-1321778523?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 60,
+    "title": "Jeans",
+    "description": "Classic denim jeans in various fits",
+    "category": "Clothing",
+    "price": 60.93,
+    "image_url": "https://images.unsplash.com/photo-5446522410?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 61,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 101.7,
+    "image_url": "https://images.unsplash.com/photo-4871675552?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 62,
+    "title": "Handbag",
+    "description": "Elegant handbag for everyday use",
+    "category": "Clothing",
+    "price": 71.99,
+    "image_url": "https://images.unsplash.com/photo-4475428899?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 63,
+    "title": "Handbag",
+    "description": "Elegant handbag for everyday use",
+    "category": "Clothing",
+    "price": 57.95,
+    "image_url": "https://images.unsplash.com/photo-8338299382?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 64,
+    "title": "Jeans",
+    "description": "Classic denim jeans in various fits",
+    "category": "Clothing",
+    "price": 46.89,
+    "image_url": "https://images.unsplash.com/photo-1676944714?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 65,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 64.96,
+    "image_url": "https://images.unsplash.com/photo-7216436807?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 66,
+    "title": "Dress Shirt",
+    "description": "Professional dress shirt in various colors",
+    "category": "Clothing",
+    "price": 34.36,
+    "image_url": "https://images.unsplash.com/photo-9145287537?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 67,
+    "title": "Casual Sneakers",
+    "description": "Versatile sneakers for everyday comfort",
+    "category": "Clothing",
+    "price": 93.92,
+    "image_url": "https://images.unsplash.com/photo-8630349320?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 68,
+    "title": "Sweater",
+    "description": "Cozy knit sweater for cold weather",
+    "category": "Clothing",
+    "price": 63.21,
+    "image_url": "https://images.unsplash.com/photo-4602499969?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 69,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 75.56,
+    "image_url": "https://images.unsplash.com/photo-4943429138?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 70,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 129.9,
+    "image_url": "https://images.unsplash.com/photo-4356682120?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 71,
+    "title": "Wool Scarf",
+    "description": "Soft wool scarf in various colors",
+    "category": "Clothing",
+    "price": 36.39,
+    "image_url": "https://images.unsplash.com/photo-5463381906?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 72,
+    "title": "Backpack",
+    "description": "Durable backpack for work and travel",
+    "category": "Clothing",
+    "price": 90.29,
+    "image_url": "https://images.unsplash.com/photo-1443502375?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 73,
+    "title": "Winter Coat",
+    "description": "Warm winter coat for cold weather",
+    "category": "Clothing",
+    "price": 112.66,
+    "image_url": "https://images.unsplash.com/photo-3884917621?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 74,
+    "title": "Black Leather Jacket",
+    "description": "Premium leather jacket with classic styling",
+    "category": "Clothing",
+    "price": 182.67,
+    "image_url": "https://images.unsplash.com/photo-1903413439?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 75,
+    "title": "Casual Sneakers",
+    "description": "Versatile sneakers for everyday comfort",
+    "category": "Clothing",
+    "price": 76.44,
+    "image_url": "https://images.unsplash.com/photo-1484865007?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 76,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 17.3,
+    "image_url": "https://images.unsplash.com/photo-5200100889?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 77,
+    "title": "Jeans",
+    "description": "Classic denim jeans in various fits",
+    "category": "Clothing",
+    "price": 43.67,
+    "image_url": "https://images.unsplash.com/photo-4949882935?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 78,
+    "title": "Baseball Cap",
+    "description": "Classic baseball cap in various colors",
+    "category": "Clothing",
+    "price": 31.06,
+    "image_url": "https://images.unsplash.com/photo-9291749566?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 79,
+    "title": "Baseball Cap",
+    "description": "Classic baseball cap in various colors",
+    "category": "Clothing",
+    "price": 29.8,
+    "image_url": "https://images.unsplash.com/photo-7051625786?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 80,
+    "title": "Sunglasses",
+    "description": "Stylish sunglasses with UV protection",
+    "category": "Clothing",
+    "price": 70.33,
+    "image_url": "https://images.unsplash.com/photo-1824508974?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 81,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 71.97,
+    "image_url": "https://images.unsplash.com/photo-2271038952?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 82,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 132.18,
+    "image_url": "https://images.unsplash.com/photo-2010051766?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 83,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 133.04,
+    "image_url": "https://images.unsplash.com/photo-8285050279?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 84,
+    "title": "Black Leather Jacket",
+    "description": "Premium leather jacket with classic styling",
+    "category": "Clothing",
+    "price": 189.38,
+    "image_url": "https://images.unsplash.com/photo-4154185634?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 85,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 131.11,
+    "image_url": "https://images.unsplash.com/photo-3435118504?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 86,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 76.66,
+    "image_url": "https://images.unsplash.com/photo-8027447326?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 87,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 75.86,
+    "image_url": "https://images.unsplash.com/photo-4969593453?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 88,
+    "title": "Sunglasses",
+    "description": "Stylish sunglasses with UV protection",
+    "category": "Clothing",
+    "price": 74.02,
+    "image_url": "https://images.unsplash.com/photo-5471202201?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 89,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 30.03,
+    "image_url": "https://images.unsplash.com/photo-6013578826?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 90,
+    "title": "Blue Denim Jacket",
+    "description": "Vintage-style denim jacket with modern fit",
+    "category": "Clothing",
+    "price": 84.49,
+    "image_url": "https://images.unsplash.com/photo-8006005674?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 91,
+    "title": "Black Leather Jacket",
+    "description": "Premium leather jacket with classic styling",
+    "category": "Clothing",
+    "price": 134.84,
+    "image_url": "https://images.unsplash.com/photo-5447837739?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 92,
+    "title": "Classic White T-Shirt",
+    "description": "100% cotton t-shirt, perfect for everyday wear",
+    "category": "Clothing",
+    "price": 32.27,
+    "image_url": "https://images.unsplash.com/photo-5930567137?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 93,
+    "title": "Sweater",
+    "description": "Cozy knit sweater for cold weather",
+    "category": "Clothing",
+    "price": 64.29,
+    "image_url": "https://images.unsplash.com/photo-3502487106?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 94,
+    "title": "Sunglasses",
+    "description": "Stylish sunglasses with UV protection",
+    "category": "Clothing",
+    "price": 65.24,
+    "image_url": "https://images.unsplash.com/photo-3115033971?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 95,
+    "title": "Jeans",
+    "description": "Classic denim jeans in various fits",
+    "category": "Clothing",
+    "price": 69.37,
+    "image_url": "https://images.unsplash.com/photo-8193344027?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 96,
+    "title": "Summer Dress",
+    "description": "Light and breezy summer dress",
+    "category": "Clothing",
+    "price": 50.58,
+    "image_url": "https://images.unsplash.com/photo-1102751819?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 97,
+    "title": "Running Shoes",
+    "description": "Comfortable athletic shoes for running and training",
+    "category": "Clothing",
+    "price": 148.33,
+    "image_url": "https://images.unsplash.com/photo-3744728488?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 98,
+    "title": "Wool Scarf",
+    "description": "Soft wool scarf in various colors",
+    "category": "Clothing",
+    "price": 42.98,
+    "image_url": "https://images.unsplash.com/photo-4261971275?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 99,
+    "title": "Jeans",
+    "description": "Classic denim jeans in various fits",
+    "category": "Clothing",
+    "price": 58.61,
+    "image_url": "https://images.unsplash.com/photo-3503308980?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  },
+  {
+    "id": 100,
+    "title": "Sweater",
+    "description": "Cozy knit sweater for cold weather",
+    "category": "Clothing",
+    "price": 58.33,
+    "image_url": "https://images.unsplash.com/photo-9792694600?ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=60&w=900"
+  }
+]
